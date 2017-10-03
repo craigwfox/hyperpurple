@@ -1,7 +1,7 @@
 {
-  "name": "foxy-term",
+  "name": "hyperpurple",
   "version": "1.0.0",
-  "description": "A theme for hyper.js",
+  "description": "A purple theme for hyper.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
