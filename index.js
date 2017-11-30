@@ -9,7 +9,7 @@ const RED = '#d1267f';
 const GREEN = '#11d86a';
 const YELLOW = '#e0de60';
 const BLUE = '#906ee5';
-const MAGENTA = '#c5257a';
+const MAGENTA = '#ed2a91';
 const LIGHT_GRAY = '#f2f2f2';
 const DARK_GRAY = '#686868';
 
